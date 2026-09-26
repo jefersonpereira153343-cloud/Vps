@@ -14,7 +14,7 @@ from urllib.parse import urlparse, quote, urlunparse, unquote
 SHOPI_API_URL = 'http://5.175.222.144:8081/'
 API_ID = 36879858
 API_HASH = '31edb415db51ac8be94379cdb9bcb236'
-BOT_TOKEN = '8535028155:AAFdHIBciYHnHkJiYtHY6CGQ8zcq857hD6A'
+BOT_TOKEN = '8853878922:AAGhRXMtw57c5-_lZBrU0w24q1gjCpCn8dM'
 ADMIN_IDS = [8978995132]
 HIT_GROUP_ID = -1004321624246
 BOT_LINK = "https://t.me/BarkBot"
